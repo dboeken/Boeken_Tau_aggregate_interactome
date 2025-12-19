@@ -2,9 +2,7 @@
 
 # Boeken Tau aggregate interactome
 
-This repository contains the analysis code associated with the tau aggregate interactome proteomics and single-molecule characterisation project, led by Dorothea Böken. This manuscript has been submitted for publication under the title "Remodelling of the Tau Interactome Across Aggregation Stages Reveals Stage-Specific Vulnerabilities in Alzheimer’s Disease".
-
-This manuscript has been submitted as a preprint via BioRxiv [here](biorxiv/link). A link to the final version will be provided upon publication.
+This repository contains the analysis code associated with the tau aggregate interactome proteomics and single-molecule characterisation project, led by Dorothea Böken. This manuscript has been submitted for publication under the title *"Temporal Trajectories of the Tau Aggregate Interactome Reveal Stage-Specific Vulnerabilities in Alzheimer’s Disease"*.
 
 ## Prerequisites
 
@@ -14,7 +12,7 @@ This analysis assumes a standard installation of Python 3 (v 3.10.5). For specif
 
 For convenience, example image files are provided here under the ```data``` folder. These data may be used to explore the workflows presented here as described below.
 
-All proteomics data are availavle via [PRIDE](Pride/link).
+The mass spectrometry proteomics data have been deposited to the ProteomeXchange Consortium via the PRIDE34 partner repository with the dataset identifier PXD072117.
 
 
 ## Workflow
