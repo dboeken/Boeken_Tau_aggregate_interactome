@@ -1,4 +1,4 @@
-
+[![DOI](https://zenodo.org/badge/1117573272.svg)](https://doi.org/10.5281/zenodo.17990782)
 
 # Boeken Tau aggregate interactome
 
