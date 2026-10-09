@@ -2,7 +2,7 @@
 
 # Boeken Tau aggregate interactome
 
-This repository contains the analysis code associated with the tau aggregate interactome proteomics and single-molecule characterisation project, led by Dorothea Böken. This manuscript has been submitted for publication under the title *"Temporal Trajectories of the Tau Aggregate Interactome Reveal Stage-Specific Vulnerabilities in Alzheimer’s Disease"*.
+This repository contains the analysis code associated with the tau aggregate interactome proteomics and single-molecule characterisation project, led by Dorothea Böken. This manuscript has been published under the title *"Temporal Trajectories of the Tau Aggregate Interactome Reveal Stage-Specific Vulnerabilities in Alzheimer’s Disease"* in Advanced Science in September 2026. The full paper is available [here](https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.77822).
 
 ## Prerequisites
 
